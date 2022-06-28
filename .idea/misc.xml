@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/Splash_Screen.xml" value="0.33" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_all_students.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_functions_your_classroom.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_functions_your_subject.xml" value="0.5" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_search_avrg_classroom.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_splash_screen.xml" value="0.3625" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_student_check_screen.xml" value="0.25" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_student_edit_and_delete.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_student_item_recycle_view.xml" value="0.4166666666666667" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_student_screen.xml" value="0.33" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_teacher_check_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_teacher_screen.xml" value="0.33" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/activity_teachers_check_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/row_list_student.xml" value="0.1" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/layout/row_list_subject.xml" value="0.25" />
+        <entry key="..\:/Users/ariog/AndroidStudioProjects/StudentsTeachersProject/app/src/main/res/menu/activity_menu.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

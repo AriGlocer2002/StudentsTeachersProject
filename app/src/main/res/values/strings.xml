@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentsTeachersProject</string>
+
+    <string name="your_classroom_banner">Your classroom - %1$s</string>
+</resources>
